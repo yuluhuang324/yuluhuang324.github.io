@@ -1457,12 +1457,12 @@ figure.cover {
 }
 
 /* ----------------------------------------------------------------------------
-   Inline text highlight (red, used for IELTS score etc.)
+   Inline text highlight (al-folio theme purple, used for IELTS score etc.)
 ---------------------------------------------------------------------------- */
 
 .highlight-red {
-  color: #c0392b;
+  color: var(--global-theme-color);
   font-weight: 600;
-  border-bottom: 1px solid rgba(192, 57, 43, 0.35);
+  border-bottom: 1px solid rgba(181, 9, 172, 0.3);
   padding-bottom: 1px;
 }
