@@ -6,12 +6,13 @@ subtitle: <a href='https://www.jxufe.edu.cn/'>Jiangxi University of Finance and 
 
 profile:
   align: right
-  image: crq_1.jpg
+  image: head_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Feel free to reach out!</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_patents: true # includes a list of software-copyright certificates on the home page
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -32,5 +33,3 @@ My research lies at the intersection of artificial intelligence and accounting, 
 Beyond research, I have gained hands-on experience in the industry through an internship at Meituan, where I worked on AI-powered solutions for accounting and financial operations. I am also the recipient of the National Encouragement Scholarship and several enterprise-sponsored scholarships, in recognition of my academic excellence and research dedication.
 
 I hold an IELTS score of 7.0 and the National Computer Rank Examination (Level 2). I am currently applying for graduate programs and actively seeking research internship opportunities in the fields of AI, multimodal machine learning, and financial technology. I am passionate about advancing the integration of artificial intelligence into accounting and finance, and I look forward to contributing to impactful research at the intersection of these disciplines.
-
-You can also browse my full software-copyright archive here: <a href="{{ '/patents/' | relative_url }}">patents</a>.
