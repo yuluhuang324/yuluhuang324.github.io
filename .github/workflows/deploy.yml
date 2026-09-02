@@ -41,7 +41,6 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
-          exportJEKYLL_ENV=production
           export JEKYLL_ENV=production
           bundle exec jekyll build
 
