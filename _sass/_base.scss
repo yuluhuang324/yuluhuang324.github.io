@@ -1441,18 +1441,18 @@ figure.cover {
 }
 
 .patent-list .patent-link {
-  color: #c0392b;
+  color: var(--global-theme-color);
   font-family: " Roboto Mono ", " Source Code Pro ", Menlo, Consolas, monospace;
   font-size: 0.95rem;
   text-decoration: none;
-  border-bottom: 1px solid rgba(192, 57, 43, 0.35);
+  border-bottom: 1px solid rgba(181, 9, 172, 0.3);
   padding-bottom: 1px;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
 .patent-list .patent-link:hover {
-  color: #e74c3c;
-  border-bottom-color: #e74c3c;
+  color: var(--global-hover-color);
+  border-bottom-color: var(--global-hover-color);
   text-decoration: none;
 }
 
