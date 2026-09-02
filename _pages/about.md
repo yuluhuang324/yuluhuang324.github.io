@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.jxufe.edu.cn/'>Jiangxi University of Finance and Economics</a>. Final-year Undergraduate
+subtitle:
 
 profile:
   align: right
