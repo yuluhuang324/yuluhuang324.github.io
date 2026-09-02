@@ -120,14 +120,9 @@ disqus_shortname: al-folio # put your disqus shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources: removed — the al-folio external-posts generator fetched
+# RSS feeds at build time and our environment can't reach medium.com. We don't
+# render any external posts on the home page so we simply disable the source.
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -339,7 +334,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # disabled — ImageMagick CLI not available on this build host; CI installs it via apt-get instead
   widths:
     - 480
     - 800
