@@ -1430,3 +1430,28 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/* ----------------------------------------------------------------------------
+   Patent registration-number links (red, like gcfy63821.github.io)
+---------------------------------------------------------------------------- */
+
+.patent-list .patent-reg {
+  text-align: right;
+  padding-top: 0.4rem;
+}
+
+.patent-list .patent-link {
+  color: #c0392b;
+  font-family: " Roboto Mono ", " Source Code Pro ", Menlo, Consolas, monospace;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(192, 57, 43, 0.35);
+  padding-bottom: 1px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.patent-list .patent-link:hover {
+  color: #e74c3c;
+  border-bottom-color: #e74c3c;
+  text-decoration: none;
+}
