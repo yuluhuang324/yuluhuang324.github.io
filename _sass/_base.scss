@@ -1455,3 +1455,14 @@ figure.cover {
   border-bottom-color: #e74c3c;
   text-decoration: none;
 }
+
+/* ----------------------------------------------------------------------------
+   Inline text highlight (red, used for IELTS score etc.)
+---------------------------------------------------------------------------- */
+
+.highlight-red {
+  color: #c0392b;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(192, 57, 43, 0.35);
+  padding-bottom: 1px;
+}
