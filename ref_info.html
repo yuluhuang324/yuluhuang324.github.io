@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personal Homepage</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css" />
+    <style>
+      .hero {
+        background-color: #f5f5f5;
+        padding: 2rem 1.5rem;
+      }
+      .profile-img {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        margin-bottom: 1rem;
+      }
+      .side-img {
+        width: 252px;
+        height: 138px;
+        border-radius: 50%;
+        margin-bottom: 1rem;
+      }
+      .side-square-img {
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        margin-bottom: 1rem;
+      }
+      .side-high-img {
+        width: 157px;
+        height: 230px;
+        border-radius: 50%;
+        margin-bottom: 1rem;
+      }
+      .project,
+      .publication {
+        margin-bottom: 1.5rem;
+      }
+      .social-icons a {
+        margin: 0 0.5rem;
+        color: #4a4a4a;
+        font-size: 1.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Hero Section -->
+    <section class="hero is-light has-text-centered">
+      <div class="hero-body">
+        <div class="container">
+          <img src="static/images/my_photo1.jpg" alt="Profile Picture" class="profile-img" />
+          <h1 class="title">Ruoqu Chen</h1>
+          <p class="subtitle">
+            Hi! I am currently a junior undergraduate student at Tsinghua University, majoring in Automation. My primary interests are in robotics,
+            human-robot interaction, and the intersection of control theory and machine learning. At present, I am working on a project integrating
+            diffusion policy with impedance-level control. I am always eager to take on new challenges and collaborate on innovative projects.
+            Currently, I am actively seeking summer research opportunities to further develop my skills and contribute to cutting-edge advancements in
+            these fields.
+          </p>
+          <!-- Social Links -->
+          <div class="social-icons">
+            <a href="https://github.com/gcfy63821" target="_blank">GitHub</a>
+            <a href="mailto:chenrq22@mails.tsinghua.edu.cn">Email</a>
+            <a href="static/pdfs/my_cv.pdf" download>Download My Resume</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section class="section">
+      <div class="container">
+        <h2 class="title is-3 has-text-centered">Research</h2>
+
+        <div class="publication">
+          <div class="card">
+            <div class="card-content">
+              <div class="media">
+                <!-- Image Section -->
+                <div class="media-left">
+                  <figure class="side-img">
+                    <img src="static/images/dp_out.png" alt="Publication Image" />
+                  </figure>
+                </div>
+                <!-- Text Section -->
+                <div class="media-content">
+                  <div class="content">
+                    <p class="title is-4">UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy</p>
+                    <p>
+                      Present UltraDP, a Diffusion-Policy-based method that receives multi-sensory inputs (ultrasound images, wrist camera image,
+                      contact wrench, and probe pose) and generates actions that are fit for multi-modal action distributions in autonomous ultrasound
+                      scanning. UltraDP achieves a 95% success rate in transverse scanning on previously unseen subjects, demonstrating its
+                      effectiveness.
+                      <a href="https://arxiv.org/abs/2511.15550" target="_blank">arXiv</a>,
+                      <a href="https://ultradp.github.io/" target="_blank">Link</a>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="publication">
+          <div class="card">
+            <div class="card-content">
+              <div class="media">
+                <!-- Image Section -->
+                <div class="media-left">
+                  <figure class="side-img">
+                    <img src="static/images/wbmpc.png" alt="Publication Image" />
+                  </figure>
+                </div>
+                <!-- Text Section -->
+                <div class="media-content">
+                  <div class="content">
+                    <p class="title is-4">Whole-Body Model Predictive Control for Mobile Manipulation with Task Priority Transition</p>
+                    <p>
+                      Developed a Whole-Body Model Predictive Control (WBMPC) framework to manage task priorities and scheduling in multi-task mobile
+                      manipulation scenarios. Integrated task priorities into a unified weight matrix, enabling smooth transitions across tasks in
+                      both spatial and temporal dimensions.
+                      <a href="https://wbmpc.github.io" target="_blank">Link</a>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="publication">
+          <div class="card">
+            <div class="card-content">
+              <div class="media">
+                <!-- Image Section -->
+                <div class="media-left">
+                  <figure class="side-img">
+                    <img src="static/images/ultra.png" alt="Publication Image" />
+                  </figure>
+                </div>
+                <!-- Text Section -->
+                <div class="media-content">
+                  <div class="content">
+                    <p class="title is-4">Planning and Control for Carotid Artery Ultrasound Robots in Clinical Dynamic Environments</p>
+                    <p>
+                      Utilized point cloud camera for body tracking and detecting obstacles for motion planning. Applied RRT* algorithm for motion
+                      planning and obstacle avoidance using the Franka robotic arm. Integrated human intention recognition for various situations,
+                      including human-intended guidance and obstacle avoidance with stable end-effector contact.
+                      <a href="" target="_blank">Coming Soon</a>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section">
+      <div class="container">
+        <h2 class="title is-3 has-text-centered">Projects</h2>
+
+        <div class="project">
+          <div class="card">
+            <div class="card-content">
+              <div class="media">
+                <!-- Image Section -->
+                <div class="media-left">
+                  <figure class="side-square-img">
+                    <img src="static/images/plan1.png" alt="Planning Scene Image" />
+                  </figure>
+                </div>
+                <!-- Text Section -->
+                <div class="media-content">
+                  <div class="content">
+                    <p class="title is-4">
+                      A Path Planning Visualization Tool that includes a companion Franka Robot Controller for Receiving and Executing Trajectories
+                    </p>
+                    <p>
+                      A path planning visualization tool with state-of-the-art planning algorithms for robot arm planning, with companion Franka joint
+                      position/impedance controller for receiving trajectories.
+                      <a href="https://github.com/gcfy63821/planning_pkg" target="_blank">View on GitHub</a>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="project">
+          <div class="card">
+            <div class="card-content">
+              <div class="media">
+                <!-- Image Section -->
+                <div class="media-left">
+                  <figure class="side-square-img">
+                    <img src="static/images/food.png" alt="result Image" />
+                  </figure>
+                </div>
+                <!-- Text Section -->
+                <div class="media-content">
+                  <div class="content">
+                    <p class="title is-4">Typical Food Classification Using AlexNet, ResNet with Grad-CAM</p>
+                    <p>
+                      This project focuses on classifying images of 10 popular food categories using a dataset containing 10,000 images. The dataset
+                      features diverse food types, including apple pie, chicken wings, dumplings, and more. CNN models based on AlexNet and ResNet18
+                      were evaluated, incorporating data augmentation techniques and a cyclical learning rate to enhance training performance.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Awards Section -->
+    <section class="section">
+      <div class="container">
+        <h2 class="title is-3 has-text-centered">Awards</h2>
+
+        <div class="award">
+          <div class="columns is-vcentered">
+            <div class="column is-one-quarter">
+              <img src="static/images/award.jpg" alt="Excellence Award" class="image" />
+            </div>
+            <div class="column">
+              <ul>
+                <li><strong>Overall Excellence Award (5%):</strong> Department of Automation, Tsinghua University, 2024</li>
+                <li><strong>Sports Excellence Award:</strong> Tsinghua University, 2023</li>
+                <li>Champion, Women's Orienteering, Short Distance Event, Tsinghua University, 2024</li>
+                <li>Champion, Orienteering Team Event, Beijing Capital University Sports Games, 2024</li>
+                <li><strong>Social Work Excellence Award:</strong> Tsinghua University, 2023</li>
+                <li><strong>Tsinghua University Friends - Zhou Huiqi Scholarship:</strong> Tsinghua University, 2023, 2024</li>
+                <li><strong>Honorable Mention (H Award), American Mathematical Modeling Contest (MCM):</strong> 2023</li>
+                <li><strong>Second Prize, Senior Group (NOIP):</strong> National Olympiad in Informatics in Provinces, 2018</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="content has-text-centered">
+        <p>© 2024 Ruoqu Chen. All rights reserved. | <a href="mailto:your.email@example.com">Contact Me</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

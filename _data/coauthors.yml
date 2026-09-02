@@ -1,0 +1,57 @@
+# Co-author homepages. Keys are lowercase last names; `firstname` must match
+# the first name as written in _bibliography/papers.bib.
+
+"xu":
+  - firstname: ["Mengdi", "M."]
+    url: https://www.mengdixu.me/
+
+  - firstname: ["Botian", "B."]
+    url: https://btx0424.github.io/
+
+"cao":
+  - firstname: ["Liu", "L."]
+    url: https://xiaohu-art.github.io/
+
+  - firstname: ["Yuhang", "Y."]
+    url: https://scholar.google.com/citations?user=Bs7kW9YAAAAJ
+
+"liu":
+  - firstname: ["Jiajun", "J."]
+    url: https://jedward225.github.io/
+
+  - firstname: ["Yicheng", "Y."]
+    url: https://mrmoore98.github.io/
+
+"xing":
+  - firstname: ["Wanli", "W."]
+    url: https://wlxing1901.github.io/
+
+"li":
+  - firstname: ["Xiang", "X."]
+    url: https://sites.google.com/view/homepageoflixiang/home
+
+  - firstname: ["Zhongyu", "Z."]
+    url: https://zyliatzju.github.io/
+
+"zhao":
+  - firstname: ["Mingguo", "M."]
+    url: https://www.au.tsinghua.edu.cn/info/1081/3199.htm
+
+  - firstname: ["Hang", "H."]
+    url: https://hangzhaomit.github.io/
+
+"zhang":
+  - firstname: ["Chenyu", "C."]
+    url: https://chenyuzhangx.github.io/
+
+"lu":
+  - firstname: ["Yingxi", "Y."]
+    url: https://luyingxi35.github.io/
+
+"lin":
+  - firstname: ["Yankai", "Y."]
+    url: https://linyankai.github.io/
+
+"wang":
+  - firstname: ["Yushi", "Y."]
+    url: https://yushi.ws/

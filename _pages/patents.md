@@ -1,0 +1,147 @@
+---
+layout: page
+permalink: /patents/
+title: patents
+description: software copyrights granted by the China Copyright Protection Center.
+nav: false
+---
+
+<!-- _pages/patents.md -->
+
+<div class="publications">
+
+<p>
+A complete archive of software-copyright certificates issued by the
+<a href="https://www.ccopyright.com.cn/" target="_blank" rel="external nofollow noopener">China Copyright Protection Center (中国版权保护中心)</a>
+— first-author registrations covering AI-driven accounting, intelligent audit, AI tax, financial-analysis, and forecasting platforms.
+The full byte-identical PDF archive is mirrored at
+<a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents" target="_blank" rel="external nofollow noopener">yuluhuang324/LLM-VLM-Software-Copyright-Patents</a>.
+</p>
+
+<h2 class="bibliography">Software Copyrights (10)</h2>
+
+<ol class="bibliography">
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>Account Agent.</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/Account%20Agent.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>Intelligent Agent System for Study Abroad Advisory (智能留学咨询智能体系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/Intelligent%20Agent%20System%20for%20Study%20Abroad%20Advisory.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>LLM-Based AI Tax Robot System (基于大模型的智能税务机器人系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/LLM-Based%20AI%20Tax%20Robot%20System.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>LLM-Based Consulting and Service Knowledge System (基于大模型的咨询服务知识系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/LLM-Based%20Consulting%20and%20Service%20Knowledge%20System.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>LLM-Based Financial and Investment System (基于大模型的金融与投资系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/LLM-Based%20Financial%20and%20Investment%20System.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>LLM-Based Intelligent Financial Analysis and Reporting System (基于大模型的智能财务分析与报告系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/LLM-Based%20Intelligent%20Financial%20Analysis%20and%20Reporting%20System.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>LLM-Based Intelligent Financial Management Software (基于大模型的智能财务管理软件).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/LLM-Based%20Intelligent%20Financial%20Management%20Software.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>Multimodal LLM-Based Automated Financial Audit System (基于多模态大模型的自动化财务报表审计系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/Multimodal%20LLM-Based%20Automated%20Financial%20Audit%20System.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>Multimodal LLM-Based Corporate Financial and Operational Knowledge System (基于多模态大模型的企业财务与运营知识系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/Multimodal%20LLM-Based%20Corporate%20Financial%20and%20Operational%20Knowledge%20System.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="row">
+    <div class="col-sm-9">
+      <strong>Multimodal LLM-Based Financial Analysis and Forecasting System (基于多模态大模型的财务分析与预测系统).</strong>
+      China Copyright Protection Center, registration certificate (first author).
+      <div class="links">
+        <a href="https://github.com/yuluhuang324/LLM-VLM-Software-Copyright-Patents/blob/main/Multimodal%20LLM-Based%20Financial%20Analysis%20and%20Forecasting%20System.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+</ol>
+
+</div>
