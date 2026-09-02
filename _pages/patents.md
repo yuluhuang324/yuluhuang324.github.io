@@ -20,12 +20,12 @@ The full byte-identical PDF archive is mirrored at
 
 <h2 class="bibliography">Software Copyrights (10)</h2>
 
-<ol class="bibliography">
+<ol class="bibliography patent-numbered">
 
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>Account Agent.</strong>
+      <strong>[1]&nbsp;&nbsp;AccountAgent: AI Accounting Assistant System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -37,7 +37,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>Intelligent Agent System for Study Abroad Advisory.</strong>
+      <strong>[2]&nbsp;&nbsp;Intelligent Agent System for Study Abroad Advisory.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -49,7 +49,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>LLM-Based AI Tax Robot System.</strong>
+      <strong>[3]&nbsp;&nbsp;LLM-Based AI Tax Robot System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -61,7 +61,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>LLM-Based Consulting and Service Knowledge System.</strong>
+      <strong>[4]&nbsp;&nbsp;LLM-Based Consulting and Service Knowledge System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -73,7 +73,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>LLM-Based Financial and Investment System.</strong>
+      <strong>[5]&nbsp;&nbsp;LLM-Based Financial and Investment System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -85,7 +85,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>LLM-Based Intelligent Financial Analysis and Reporting System.</strong>
+      <strong>[6]&nbsp;&nbsp;LLM-Based Intelligent Financial Analysis and Reporting System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -97,7 +97,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>LLM-Based Intelligent Financial Management Software.</strong>
+      <strong>[7]&nbsp;&nbsp;LLM-Based Intelligent Financial Management Software.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -109,7 +109,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>Multimodal LLM-Based Automated Financial Audit System.</strong>
+      <strong>[8]&nbsp;&nbsp;Multimodal LLM-Based Automated Financial Audit System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -121,7 +121,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>Multimodal LLM-Based Corporate Financial and Operational Knowledge System.</strong>
+      <strong>[9]&nbsp;&nbsp;Multimodal LLM-Based Corporate Financial and Operational Knowledge System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
@@ -133,7 +133,7 @@ The full byte-identical PDF archive is mirrored at
 <li>
   <div class="row">
     <div class="col-sm-9">
-      <strong>Multimodal LLM-Based Financial Analysis and Forecasting System.</strong>
+      <strong>[10]&nbsp;&nbsp;Multimodal LLM-Based Financial Analysis and Forecasting System.</strong>
       China Copyright Protection Center, registration certificate (first author).
     </div>
     <div class="col-sm-3 patent-reg">
