@@ -193,13 +193,13 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
+  # - jekyll-minifier   # disabled — terser/minifier exceptions drop output files
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
-  - jekyll-terser
+  # - jekyll-terser     # disabled — same reason
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
