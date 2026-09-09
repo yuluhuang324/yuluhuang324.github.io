@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year undergraduate student at the School of Accounting, Jiangxi University of Finance and Economics (JUFE). My academic performance places me among the top 20% of my class.
+I am a final-year undergraduate student at the School of Accounting, Jiangxi University of Finance and Economics (JUFE, AACSB Accredited). My academic performance places me among the top of my class.
 
 My research lies at the intersection of artificial intelligence and accounting, with a focus on developing multimodal foundation models for financial document understanding and intelligent audit systems. I have published two first-author peer-reviewed papers exploring the application of large language models and vision-language models to financial reporting, audit automation, and investment decision support. I have also been granted over 10 software copyrights as the first author, covering AI-driven accounting assistants, AI tax robots, large-model-based financial analysis and forecasting systems, and automated audit systems—all aimed at bridging the gap between cutting-edge AI techniques and real-world financial workflows.
 
